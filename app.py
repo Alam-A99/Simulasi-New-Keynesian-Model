@@ -569,5 +569,5 @@ if st.session_state.results is not None:
         """)
 
 st.markdown("---")
-st.caption("🌍 Simulasi Ekonomi Makro | www.dataaksi.id | ✅ Auto-run + Auto-Analysis + Robustness Check")
+st.caption("🌍 Simulasi Ekonomi Makro | www.dataaksi.id | ✅ Auto-run")
 st.caption("✅ Developed with Akal sehat, Qwen, Claude 3.5, GPT-4o")
