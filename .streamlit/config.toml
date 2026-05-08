@@ -1,0 +1,22 @@
+# ==========================================================
+# KONFIGURASI STREAMLIT
+# ==========================================================
+
+[server]
+# Izinkan upload file hingga 20MB
+maxUploadSize = 20
+# Nonaktifkan CORS untuk kemudahan integrasi
+enableCORS = false
+enableXsrfProtection = false
+
+[theme]
+# Tema kustom agar konsisten dengan branding
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
+
+[browser]
+# Buka halaman secara otomatis saat run lokal
+gatherUsageStats = false
