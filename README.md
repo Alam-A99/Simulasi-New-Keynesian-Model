@@ -104,4 +104,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 **Dibuat dengan ❤️ untuk edukasi kebijakan makroekonomi**  
-[www.dataaksi.id](https://www.dataaksi.id)
+[www.dataaksi.id](https://www.dataaksi.id) & [economic Simulation](https://www.econmodel.bisdig.com) 
